@@ -5,6 +5,8 @@
 ## About this project ##
 This document is a minimal, clean and improved version of the [Dungeons & Dragons basic rules v0.3 website](http://dnd.wizards.com/products/tabletop/players-basic-rules). The main idea of this project is to make a better source for tablets, ebooks or printing version. Additonally we will be able to improve the document's references, contents or examples.
 
+[Go to Dungeon & Dragons - Player's Basic Rules v0.3 Improved](https://narfss.github.io/DungeonsAndDragonsBasicRules/)
+
 ### What tasks are in progress
   - Extracted the html and css basic for style for hte original source.
   - Added links for chapters navigation
