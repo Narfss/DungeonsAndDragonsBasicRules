@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en-US" class="page_maintenance">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Dungeons and Dragons website is down for routine server maintenance</title>
+    
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1" />
+    <meta name="format-detection" content="telephone=no" />
+    <meta name="robots" content="noindex, nofollow" />
+    
+    <link rel="icon" type="image/png" href="/sites/all/themes/dx/icons/touch-icon-114.png" />
+    <link rel="shortcut icon" type="image/x-icon" href="/sites/all/themes/dx/icons/favicon_.ico" />
+    <link rel="apple-touch-icon-precomposed" href="/sites/all/themes/dx/icons/touch-icon-57.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/sites/all/themes/dx/icons/touch-icon-72.png" />
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/sites/all/themes/dx/icons/touch-icon-114.png" />
+    
+    <link rel="stylesheet" type="text/css" href="/sites/all/themes/dx/css/sections/maintenance.css" />
+  </head>
+  
+  <body>
+    <div id="viewport">
+      <div class="hero">
+        <div class="logo">
+          <img src="/sites/all/themes/dx/img/maintenance/dungeons-and-dragons.svg" alt="Dungeons &amp; Dragons" />
+        </div>
+        <div>
+          <img class="desktop" src="/sites/all/themes/dx/img/maintenance/hero_desktop.png" alt="" />
+          <img class="mobile" src="/sites/all/themes/dx/img/maintenance/hero_mobile.png" alt="" />
+        </div>
+      </div>
+      <div class="message">
+      <h1>
+        <strong>dnd.wizards.com</strong><br />
+        <span>is down for routine server maintenance</span>
+      </h1>
+      <p>We apologize for the inconvenience and thank you for your patience!</p>
+      </div>
+    </div>
+  </body>
+</html>

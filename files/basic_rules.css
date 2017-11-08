@@ -1,0 +1,389 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic");
+html {
+    font-size: 62.5%;
+}
+
+body {
+    margin: 0 !important;
+    color: #333333;
+    background: url(page-background.jpg) 0 0 repeat #f9f7ec;
+    background-size: auto !important;
+    padding-bottom: 60px;
+    padding-top: 60px;
+    font-weight: 400;
+    font-family: "Open Sans", sans-serif;
+    text-align: center;
+}
+
+body .content {
+    text-align: left;
+    max-width: 1000px;
+    margin: auto;
+}
+
+p {
+    text-indent: 10px;
+}
+
+p,
+ul,
+ol,
+dt,
+dd {
+    font-size: 1.6rem;
+    margin: 0 0 1.6rem;
+    padding: 0;
+}
+
+a {
+    color: #9d0a0e;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.roll-dice {
+    cursor: pointer;
+    font-weight: 600;
+    border-bottom: 1px dotted black;
+}
+
+.product_tabletop-games_basic-rules .menu-rules-left {
+    height: auto;
+    position: relative;
+    top: 0;
+    z-index: 500;
+    float: left;
+    background: url(../files/pattern-transparent.png) 100% 0px no-repeat;
+    background-size: 186px 202px !important;
+    background-color: #780505;
+    margin: 20px 20px 20px 0;
+    padding: 20px
+}
+
+.product_tabletop-games_basic-rules .title-menu-rules-left h3 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 12px 0 0 10px;
+}
+
+.showHideListItems dt {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+.showHideListItems dt span,
+.showHideListItems dt a {
+    font-size: 1.6rem;
+    font-weight: 700;
+    color: #fff;
+}
+
+.howtoplayMenuItem span,
+.howtoplayMenuItem a {
+    font-size: 24rem;
+    font-weight: 700;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+
+.menu-rules-left dd .wrap ul {
+    margin: 0;
+    padding: 0;
+}
+
+.menu-rules-left dd .wrap ul li a {
+    list-style: none !important;
+    color: #fff;
+    font-size: 1.2rem;
+    font-style: italic;
+    font-weight: normal;
+    display: block;
+}
+
+.menu-rules-left dd .wrap ul li {
+    list-style-type: none;
+}
+
+.product_tabletop-games_basic-rules .basic-rules-intro .img-title img {
+    display: block;
+    margin: 0 auto 5px;
+    height: auto;
+    margin-left: 30%;
+}
+
+.main-content {
+    margin: 20px;
+}
+
+.main-content .showHideListItems dt.opened {
+    height: 30px;
+    position: relative;
+    background-color: #780505;
+    border: none !important;
+    padding: 0 0 10px 20px;
+    margin-bottom: 0;
+}
+
+.main-content .menu-rules-left .showHideListItems dt.howtoplayMenuItem {
+    height: 30px;
+    color: #fff;
+    padding: 2px 0 2px 2px;
+    position: relative;
+    overflow: hidden;
+    margin: 0;
+}
+
+/*.main-content .showHideListItems dt*/
+.howtoplayMenuItem {
+    height: 30px;
+    color: #fff;
+    padding: 10px 0 10px 10px;
+    margin: 40px 0 0 0;
+    position: relative;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+.howtoplayMenuItem span {
+    font-size: 2.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
+
+.showHideListItems .howtoplayMenuItem {
+    height: 30px;
+    position: relative;
+    background-color: #780505;
+    border: none !important;
+    padding: 20px 0 10px 20px;
+    margin-bottom: 10px;
+}
+.menu-left .howtoplayMenuItem {
+    height: 30px;
+    position: relative;
+    background-color: transparent;
+    border: none !important;
+    padding: 20px 0 10px 20px;
+    margin-bottom: 10px;
+}
+
+.product_tabletop-games_basic-rules .basic-rules-intro h3 span {
+    padding: 2px 0px;
+    font-size: 3.4rem;
+    font-weight: 700;
+}
+
+.product_tabletop-games_basic-rules .basic-rules-intro h4 {
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+
+.product_tabletop-games_basic-rules .basic-rules-intro h5 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+
+.product_tabletop-games_basic-rules .basic-rules-intro h6 {
+    font-size: 1.6rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 40px;
+    margin-bottom: -10px;
+}
+
+.main-content .showHideListItems dd .wrap .list-number {
+    padding-left: 30px;
+}
+
+.main-content .showHideListItems dd .wrap .list-number p strong {
+    padding-left: 0;
+}
+
+.showHideListItems dd .wrap h4 {
+    font-size: 2.4rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 30px 0 0 20px;
+    position: relative;
+    margin: 0 0 1.6rem;
+}
+
+.showHideListItems dd .wrap h5 {
+    font-size: 2.1rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 10px 0 0 20px;
+    position: relative;
+    margin: 0 0 1.6rem;
+}
+
+.showHideListItems dd .wrap h6 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0 0 0 20px;
+    position: relative;
+    margin: 0 0 1.6rem;
+}
+
+.product_tabletop-games_basic-rules .basic-rules-intro p {
+    margin: 0;
+    padding: 12px 0;
+}
+
+.product_tabletop-games_basic-rules .basic-rules-intro .bg-white {
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #780505;
+    width: auto;
+}
+.product_tabletop-games_basic-rules .basic-rules-intro .bg-white tr {
+    background-color: #fff;
+    border: 1px solid #780505;
+}
+.product_tabletop-games_basic-rules .basic-rules-intro .bg-white tr:nth-child(odd) td {
+    background-color: #fff;
+    border: 1px solid #780505;
+}
+
+.main-content.article ul li, article.intro ul li {
+    margin-top: 10px;
+}
+
+.main-content ul li {
+    margin-left: 40px;
+}
+
+.main-content ul {
+    margin-bottom: 20px;
+}
+
+
+.menu-rules-left .showHideListItems dt.opened{
+    background-color: #FF000000;
+}
+
+aside {
+    width: 93%;
+    margin: 10px;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #780505;
+}
+
+
+.product_tabletop-games_basic-rules table caption { font-size: 2rem; margin: 0.5rem; font-weight: 700; font-style: italic; }
+table tr:nth-child(odd), table tr:nth-child(even) { background: none; border-bottom: none; }
+table tr:nth-child(odd) td { background-color: #ebebeb; border-bottom: 1px solid #fff; }
+table tr:nth-child(even) td { background-color: #fcfbf6; border-bottom: 1px solid #fff; }
+html body table tbody { border-top: none; }
+html body table th.separator,
+html body table td.separator { background-color: transparent; border-bottom: none; }
+table { font-size: 1.5rem; }
+table th { padding: 8px 12px; }
+
+.main-content .with-scroll .scrollbar-outer { overflow: auto; }
+.main-content .with-scroll .scrollbar-outer .table-content { min-width: 90%; margin: 0; padding: 30px 10px; float: left; clear: both; }
+.main-content .with-scroll .scrollbar-outer .table-content table { width: 90%; margin: auto; }
+
+
+table { font-size:1.6rem; /*line-height:1.6rem;*/ margin:40px 0; border-collapse: collapse; width: 100%; }
+table tr { border-bottom:1px solid #fff; }
+table th { background-color: #333; color:#fff; font-style:italic; font-weight:600; padding:8px 20px; }
+table td { color:#333; padding:8px 20px; border: 0 none; }
+table tr:nth-child(even) { background-color: #fcfbf6; }
+table tr:nth-child(odd) { background-color: #ebebeb; }
+table tr:hover { background-color: #fff; }
+
+
+.product_tabletop-games_basic-rules dt:not(.howtoplayMenuItem) { padding: 0 0 0 35px; font-size: 1.8rem; font-weight: 700; }
+
+.product_tabletop-games_basic-rules .basic-rules-intro h2, 
+.product_tabletop-games_basic-rules .basic-rules-intro h3 { 
+    text-align: center; text-transform: uppercase; line-height: 2rem; margin-top: 50px; 
+}
+.product_tabletop-games_basic-rules .basic-rules-intro h2 span.first-line { font-size: 3rem; font-weight:700;  display: block; line-height: 3rem; }
+.product_tabletop-games_basic-rules .basic-rules-intro.chapter h3 { padding-top: 70px; }
+.product_tabletop-games_basic-rules .basic-rules-intro h2, .product_tabletop-games_basic-rules .basic-rules-intro h3 { text-align: center; text-transform: uppercase; line-height: 2rem; margin-top: 50px; }
+.product_tabletop-games_basic-rules .basic-rules-intro h2 { padding-top: 40px; }
+.product_tabletop-games_basic-rules .basic-rules-intro h2 span { padding: 2px 0px; font-size: 4.6rem; font-weight: 700; line-height: 3rem;  }
+
+.main-content .line-pattern { clear: both; width: auto; height: 70px; background: url(pattern-separator.png) center center no-repeat; background-size: auto 70px !important; margin: 60px 0 0 0; position: relative; }
+.main-content .line-pattern:before { content: ""; position: absolute; height: 1px; right: 56%; bottom: 50%; left: 0; border-bottom: 1px solid #000; }
+.main-content .line-pattern:after { content: ""; position: absolute; height: 1px; left: 56%; bottom: 50%; right: 0; border-bottom: 1px solid #000; }
+
+
+.product_tabletop-games_basic-rules blockquote { font-style: italic; font-weight: 700; }
+.product_tabletop-games_basic-rules blockquote footer { font-style: normal; font-weight: normal; text-align: right; }
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    border-bottom: 1px dotted black;
+    text-indent: 0;
+}
+
+.tooltip .tooltiptext {
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 4px;
+    position: absolute;
+    z-index: 1;
+    text-indent: 0;
+}
+
+.tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+
+ul, ol {
+    margin-left: 3.2rem;
+}
+
+.spell_list dt span {
+    color: black;
+}
+
+.spell_list dd {
+    padding: 10px 0 0 50px;
+}
+
+.spell_list dd div.wrap {
+    border-bottom: 1px solid black;
+    margin-bottom: 30px;
+}
+
+.spell_list dd .wrap h6 {
+    font-size: 1.8rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding: 0 0 0 20px;
+    position: relative;
+    margin: 0 0 1.6rem;
+}
+
+
+.conditions_list ul li {
+    margin-left: 40px;
+}
+
+.conditions_list h6 { padding: 0; margin-top: 3rem; margin-bottom: 0; font-size: 1.8rem; font-weight: 700; text-transform: uppercase; padding: 0 0 0 20px; position: relative; }
+
+.conditions_list aside { 
+    padding-bottom: 40px;
+}
+.conditions_list aside h6 { margin: 0 0 1.6rem; padding-bottom: 20px; }
+
