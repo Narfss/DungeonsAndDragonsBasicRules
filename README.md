@@ -8,7 +8,7 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
 [Go to Dungeon & Dragons - Player's Basic Rules v0.3 Improved](https://narfss.github.io/DungeonsAndDragonsBasicRules/)
 
 ### What tasks are in progress
-  - Extracted the html and css basic for style for hte original source.
+  - Extracted the html and css basic for style from the original source.
   - Added links for chapters navigation
   - Added highlight for iniciais
   - Create a system for dice rolling
