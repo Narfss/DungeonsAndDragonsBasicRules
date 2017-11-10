@@ -200,6 +200,10 @@ a {
     margin-bottom: -10px;
 }
 
+.product_tabletop-games_basic-rules .basic-rules-intro aside h6 {
+    margin-top: 0px;
+}
+
 .main-content .showHideListItems dd .wrap .list-number {
     padding-left: 30px;
 }
@@ -307,9 +311,9 @@ table tr:hover { background-color: #fff; }
 
 .product_tabletop-games_basic-rules dt:not(.howtoplayMenuItem) { padding: 0 0 0 35px; font-size: 1.8rem; font-weight: 700; }
 
-.product_tabletop-games_basic-rules .basic-rules-intro h2, 
-.product_tabletop-games_basic-rules .basic-rules-intro h3 { 
-    text-align: center; text-transform: uppercase; line-height: 2rem; margin-top: 50px; 
+.product_tabletop-games_basic-rules .basic-rules-intro h2,
+.product_tabletop-games_basic-rules .basic-rules-intro h3 {
+    text-align: center; text-transform: uppercase; line-height: 2rem; margin-top: 50px;
 }
 .product_tabletop-games_basic-rules .basic-rules-intro h2 span.first-line { font-size: 3rem; font-weight:700;  display: block; line-height: 3rem; }
 .product_tabletop-games_basic-rules .basic-rules-intro.chapter h3 { padding-top: 70px; }
@@ -382,8 +386,7 @@ ul, ol {
 
 .conditions_list h6 { padding: 0; margin-top: 3rem; margin-bottom: 0; font-size: 1.8rem; font-weight: 700; text-transform: uppercase; padding: 0 0 0 20px; position: relative; }
 
-.conditions_list aside { 
+.conditions_list aside {
     padding-bottom: 40px;
 }
 .conditions_list aside h6 { margin: 0 0 1.6rem; padding-bottom: 20px; }
-
