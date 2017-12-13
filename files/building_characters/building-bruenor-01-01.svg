@@ -18,7 +18,11 @@
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="building-bruenor-01-01.svg">
   <defs
-     id="defs2" />
+     id="defs2">
+    <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Gochi+Hand');
+    </style>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
