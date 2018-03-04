@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+ 
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title>Player's Basic Rules</dc:title>
+    <dc:language>en</dc:language>
+    <dc:identifier id="BookId" opf:scheme="ISBN">123456789X</dc:identifier>
+    <dc:creator opf:file-as="Garvin, Perry" opf:role="aut">Dungeons &amp; Dragons</dc:creator>
+    <dc:publisher>Amazon.com</dc:publisher>
+    <dc:subject>Reference</dc:subject>
+    <dc:date>2011-12-07</dc:date>
+    <dc:description>Player's Basic Rules for Dungeons &amp; Dragons</dc:description>
+    <meta name="cover" content="my-cover-image" />
+  </metadata>
+ 
+  <manifest>
+    <item id="tc" href="toc.html" media-type="application/xhtml+xml"/>
+    <item id="book" href="mykindlebook.html" media-type="application/xhtml+xml"/>
+    <item id="stylesheet" href="style.css" media-type="text/css"/>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>  
+    <item id="my-cover-image" href="mycover.jpg" media-type="image/jpeg" />
+  </manifest>
+ 
+  <!-- Each itemref references the id of a document designated in the manifest. The order of the itemref elements organizes the associated content files into the linear reading order of the publication.  -->
+  <spine toc="ncx">
+    <itemref idref="tc" />
+    <itemref idref="book" />
+  </spine>
+ 
+  <!-- The Kindle reading system supports two special guide items which are both mandatory.
+  type="toc" [mandatory]: a link to the HTML table of contents
+  type="text" [mandatory]: a link to where the content of the book starts (typically after the front matter) -->
+  <guide>
+    <reference type="toc" title="Table of Contents" href="toc.html"/>
+    <reference type="text" title="Beginning" href="toc.html"></reference>
+  </guide>
+ 
+</package>

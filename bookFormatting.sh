@@ -1,0 +1,4 @@
+zip -r DungeonsAndDragonsBasicRules.zip DungeonsAndDragonsBasicRules
+mv DungeonsAndDragonsBasicRules.zip DungeonsAndDragonsBasicRules.epub
+ebook-convert DungeonsAndDragonsBasicRules.epub DungeonsAndDragonsBasicRules.mobi
+
