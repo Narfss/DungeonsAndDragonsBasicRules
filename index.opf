@@ -18,7 +18,7 @@
     <item id="book" href="mykindlebook.html" media-type="application/xhtml+xml"/>
     <item id="stylesheet" href="style.css" media-type="text/css"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>  
-    <item id="my-cover-image" href="mycover.jpg" media-type="image/jpeg" />
+    <item id="my-cover-image" href="cover.jpg" media-type="image/jpeg" />
   </manifest>
  
   <!-- Each itemref references the id of a document designated in the manifest. The order of the itemref elements organizes the associated content files into the linear reading order of the publication.  -->
