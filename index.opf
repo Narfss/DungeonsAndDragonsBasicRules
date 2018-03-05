@@ -5,10 +5,10 @@
     <dc:title>Player's Basic Rules</dc:title>
     <dc:language>en</dc:language>
     <dc:identifier id="BookId" opf:scheme="ISBN">123456789X</dc:identifier>
-    <dc:creator opf:file-as="Garvin, Perry" opf:role="aut">Dungeons &amp; Dragons</dc:creator>
-    <dc:publisher>Amazon.com</dc:publisher>
+    <dc:creator opf:file-as="Wizards of the Coast" opf:role="aut">Dungeons &amp; Dragons</dc:creator>
+    <dc:publisher>Wizards of the Coast</dc:publisher>
     <dc:subject>Reference</dc:subject>
-    <dc:date>2011-12-07</dc:date>
+    <dc:date>2018-1-01</dc:date>
     <dc:description>Player's Basic Rules for Dungeons &amp; Dragons</dc:description>
     <meta name="cover" content="my-cover-image" />
   </metadata>
