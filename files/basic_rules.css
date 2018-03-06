@@ -64,6 +64,7 @@ h6 {
 table {
     border-collapse: collapse;
     border: 0px;
+    border-spacing: 0px;
 }
 
 table td {
@@ -76,7 +77,7 @@ table th {
     background-color: #333;
     color: #fff;
     font-style: italic;
-    padding: 8px 20px;
+    padding: 8px 20px 8px 20px;
 }
 
 table tr:nth-child(odd) {
@@ -111,4 +112,18 @@ blockquote {
 
 .banner_image {
     float: right;
+}
+
+thead tr:first-child {
+    background-color: #333;
+    color: #fff;
+    font-style: italic;
+    padding: 8px 20px;
+}
+
+.darktr {
+    background-color: #333;
+    color: #fff;
+    font-style: italic;
+    padding: 8px 20px;
 }
