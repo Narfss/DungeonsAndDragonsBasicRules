@@ -1,0 +1,17 @@
+mkdir DungeonsAndDragonsBasicRulesEbook
+cp cover.jpg DungeonsAndDragonsBasicRulesEbook
+cp index.html DungeonsAndDragonsBasicRulesEbook
+cp index.opf DungeonsAndDragonsBasicRulesEbook
+cp toc.html DungeonsAndDragonsBasicRulesEbook
+cp toc.ncx DungeonsAndDragonsBasicRulesEbook
+mkdir DungeonsAndDragonsBasicRulesEbook/files
+cp files/ebook_basic_rules.css DungeonsAndDragonsBasicRulesEbook/files/basic_rules.css
+cp files/basic-rules_title.png DungeonsAndDragonsBasicRulesEbook/files/
+cp files/pattern-separator.png DungeonsAndDragonsBasicRulesEbook/files/
+cp files/faction_banner_*.png DungeonsAndDragonsBasicRulesEbook/files/
+
+zip -r DungeonsAndDragonsBasicRules.zip DungeonsAndDragonsBasicRulesEbook
+mv DungeonsAndDragonsBasicRules.zip DungeonsAndDragonsBasicRules.epub
+ebook-convert DungeonsAndDragonsBasicRules.epub DungeonsAndDragonsBasicRules.mobi
+rm -dR DungeonsAndDragonsBasicRulesEbook
+
