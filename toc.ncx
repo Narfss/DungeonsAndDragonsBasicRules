@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+"http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+ 
+<ncx version="2005-1" xml:lang="en" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+ 
+  <head>
+<!-- The following four metadata items are required for all NCX documents,
+including those conforming to the relaxed constraints of OPS 2.0 -->
+ 
+    <meta name="dtb:uid" content="123456789X"/> <!-- same as in .opf -->
+    <meta name="dtb:depth" content="1"/> <!-- 1 or higher -->
+    <meta name="dtb:totalPageCount" content="0"/> <!-- must be 0 -->
+    <meta name="dtb:maxPageNumber" content="0"/> <!-- must be 0 -->
+  </head>
+ 
+  <docTitle>
+    <text>Player's Basic Rules</text>
+  </docTitle>
+ 
+  <docAuthor>
+    <text>Dungeons &amp; Dragons</text>
+  </docAuthor>
+
+<navMap>
+	<navPoint class="toc" id="table" playOrder="1">
+		<navLabel><text>Table of Contents</text></navLabel>
+		<content src="toc.html" /> 
+	</navPoint>
+	<navPoint class="titlepage" id="level1-book2" playOrder="2"><navLabel><text>Introduction</text></navLabel><content src="index.html#howtoplayparent_886" /></navPoint>
+	<navPoint class="book" id="level1-book3" playOrder="3"><navLabel><text>Step-by-Step Characters</text></navLabel><content src="index.html#howtoplayparent_911" /></navPoint>
+	<navPoint class="book" id="level1-book4" playOrder="4"><navLabel><text>Races</text></navLabel><content src="index.html#howtoplayparent_951" /></navPoint>
+	<navPoint class="book" id="level1-book5" playOrder="5"><navLabel><text>Classes</text></navLabel><content src="index.html#howtoplayparent_976" /></navPoint>
+	<navPoint class="book" id="level1-book6" playOrder="6"><navLabel><text>Personality and Background</text></navLabel><content src="index.html#howtoplayparent_1001" /></navPoint>
+	<navPoint class="book" id="level1-book7" playOrder="7"><navLabel><text>Equipment</text></navLabel><content src="index.html#howtoplayparent_1021" /></navPoint>
+	<navPoint class="book" id="level1-book8" playOrder="8"><navLabel><text>Customization Options</text></navLabel><content src="index.html#howtoplayparent_1076" /></navPoint>
+	<navPoint class="book" id="level1-book9" playOrder="9"><navLabel><text>Using Ability Scores</text></navLabel><content src="index.html#howtoplayparent_1091" /></navPoint>
+	<navPoint class="book" id="level1-book10" playOrder="10"><navLabel><text>Adventuring</text></navLabel><content src="index.html#howtoplayparent_1126" /></navPoint>
+	<navPoint class="book" id="level1-book11" playOrder="11"><navLabel><text>Combat</text></navLabel><content src="index.html#howtoplayparent_1161" /></navPoint>
+	<navPoint class="book" id="level1-book12" playOrder="12"><navLabel><text>Spellcasting</text></navLabel><content src="index.html#howtoplayparent_1206" /></navPoint>
+	<navPoint class="book" id="level1-book13" playOrder="13"><navLabel><text>Spells</text></navLabel><content src="index.html#howtoplayparent_1936" /></navPoint>
+	<navPoint class="book" id="level1-book15" playOrder="15"><navLabel><text>Appendices</text></navLabel><content src="index.html#howtoplayparent_1881" /></navPoint>
+	<navPoint class="book" id="level1-book16" playOrder="16"><navLabel><text>What Comes Next?</text></navLabel><content src="index.html#howtoplayparent_1876" /></navPoint>
+</navMap>
+
+</ncx>

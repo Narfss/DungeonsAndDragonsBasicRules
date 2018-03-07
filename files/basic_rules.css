@@ -57,7 +57,7 @@ a {
     background-size: 186px 202px !important;
     background-color: #780505;
     margin: 20px 20px 20px 0;
-    padding: 20px
+    padding: 20px;
 }
 
 .product_tabletop-games_basic-rules .title-menu-rules-left h3 {
@@ -107,7 +107,7 @@ a {
     list-style-type: none;
 }
 
-.product_tabletop-games_basic-rules .basic-rules-intro .img-title img {
+.product_tabletop-games_basic-rules .basic-rules-intro .img-title .image-header {
     display: block;
     margin: 0 auto 5px;
     height: auto;
@@ -390,3 +390,7 @@ ul, ol {
     padding-bottom: 40px;
 }
 .conditions_list aside h6 { margin: 0 0 1.6rem; padding-bottom: 20px; }
+.banner_image {
+    width: 35%;
+    float: right;
+}
