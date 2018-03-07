@@ -5,7 +5,7 @@ cp index.opf DungeonsAndDragonsBasicRulesEbook
 cp toc.html DungeonsAndDragonsBasicRulesEbook
 cp toc.ncx DungeonsAndDragonsBasicRulesEbook
 mkdir DungeonsAndDragonsBasicRulesEbook/files
-cp files/basic_rules.css DungeonsAndDragonsBasicRulesEbook/files/basic_rules.css
+cp files/ebook_basic_rules.css DungeonsAndDragonsBasicRulesEbook/files/basic_rules.css
 cp files/basic-rules_title.png DungeonsAndDragonsBasicRulesEbook/files/
 cp files/pattern-separator.png DungeonsAndDragonsBasicRulesEbook/files/
 cp files/faction_banner_*.png DungeonsAndDragonsBasicRulesEbook/files/
