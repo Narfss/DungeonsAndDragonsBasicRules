@@ -1,0 +1,133 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic");
+html {
+}
+
+
+.product_tabletop-games_basic-rules .basic-rules-intro .img-title img {
+    display: block;
+    margin: 0 auto 5px;
+    height: auto;
+    margin-left: auto;
+}
+
+.product_tabletop-games_basic-rules .menu-rules-left {
+    display: none;
+}
+
+.downloadBooksReference {
+  display: none;  
+}
+
+dd {
+    display: block;
+    margin-left: 5px;
+}
+
+table {
+    padding: 15px;
+    background-color: #fff;
+    border: 1px solid #780505;
+    width: auto;
+}
+
+.main-content .line-pattern { clear: both; width: auto; height: 70px; background: url(pattern-separator.png) center center no-repeat; background-size: auto 70px !important; margin: 60px 0 0 0; position: relative; }
+.main-content .line-pattern:before { content: ""; position: absolute; height: 1px; right: 56%; bottom: 50%; left: 0; border-bottom: 1px solid #000; }
+.main-content .line-pattern:after { content: ""; position: absolute; height: 1px; left: 56%; bottom: 50%; right: 0; border-bottom: 1px solid #000; }
+
+aside {
+    width: 93%;
+    margin: 10px;
+    padding: 20px;
+    border: 1px solid #780505;
+}
+
+.howtoplayMenuItem {
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin: 30px 0px 0px 0px;
+}
+
+h3 {
+    font-size: 1.4rem;
+    font-weight: 700;
+    margin: 30px 0px 0px 0px;
+}
+
+h5 {
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin: 20px 0px 0px 0px;
+}
+
+h6 {
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin: 10px 0px 0px 0px;
+}
+
+table {
+    border-collapse: collapse;
+    border: 0px;
+    border-spacing: 0px;
+}
+
+table td {
+    color: #333;
+    padding: 8px 20px 8px 20px;
+    border: 0 none;
+}
+
+table th {
+    background-color: #333;
+    color: #fff;
+    font-style: italic;
+    padding: 8px 20px 8px 20px;
+}
+
+table tr:nth-child(odd) {
+    background-color: #ebebeb;
+}
+
+table tr:nth-child(odd), table tr:nth-child(even) {
+    background: none;
+    border-bottom: none;
+}
+
+table tr:nth-child(odd) td {
+    background-color: #ebebeb;
+    border-bottom: 1px solid #fff;
+}
+
+.product_tabletop-games_basic-rules dt:not(.howtoplayMenuItem) {
+    padding: 0 0 0 35px;
+    font-size: 1rem;
+    font-weight: 700;
+}
+
+blockquote {
+    font-style: italic;
+    font-weight: 700;
+}
+
+.main-content .with-scroll .scrollbar-outer .table-content {
+    margin: 0;
+    padding: 30px 10px;
+}
+
+.banner_image {
+    float: right;
+}
+
+thead tr:first-child {
+    background-color: #333;
+    color: #fff;
+    font-style: italic;
+    padding: 8px 20px;
+}
+
+.darktr {
+    background-color: #333;
+    color: #fff;
+    font-style: italic;
+    padding: 8px 20px;
+}
