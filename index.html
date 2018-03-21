@@ -9059,10 +9059,13 @@
                         <li>
                             7th Level
                             <ul>
+                                <li><a href="#conjure-celestial">Conjure Celestial</a></li>
+                                <li><a href="#divine-word">Divine Word</a></li>
                                 <li><a href="#etherealness">Etherealness</a></li>
                                 <li><a href="#fire-storm">Fire Storm</a></li>
                                 <li><a href="#regenerate">Regenerate</a></li>
                                 <li><a href="#resurrection">Resurrection</a></li>
+                                <li><a href="#symbol">Symbol</a></li>
                             </ul>
                         </li>
                         <li>
@@ -9207,6 +9210,7 @@
                                 <li><a href="#delayed-blast-fireball">Delayed Blast Fireball</a></li>
                                 <li><a href="#finger-of-death">Finger of Death</a></li>
                                 <li><a href="#mordenkainens-sword">Mordenkainen’s Sword</a></li>
+                                <li><a href="#symbol">Symbol</a></li>
                                 <li><a href="#teleport">Teleport</a></li>
                             </ul>
                         </li>
@@ -12539,6 +12543,26 @@
                                  <dd class="hidden">
                                     <div class="wrap">
                                        <dl class="spell_list">
+                                          <dt id="conjure-celestial"><span>Conjure Celestial</span></dt>
+                                          <dd>
+                                             <div class="wrap">
+                                                <h6>7th-level conjuration</h6>
+                                                <dl>
+                                                   <dt>Casting Time:</dt>
+                                                   <dd>1 minute</dd>
+                                                   <dt>Range:</dt>
+                                                   <dd>90 feet</dd>
+                                                   <dt>Components:</dt>
+                                                   <dd>V, S</dd>
+                                                   <dt>Duration:</dt>
+                                                   <dd>Concentration, up to 1 hour</dd>
+                                                </dl>
+                                                <p>You summon a celestial of challenge rating 4 or lower, which appears in an unoccupied space that you can see within range. The celestial disappears when it drops to 0 hit points or when the spell ends.</p>
+                                                <p>The celestial is friendly to you and your companions for the duration. Roll initiative for the celestial, which has its own turns. It obeys any verbal commands that you issue to it (no action required by you), as long as they don't violate its alignment. If you don't issue any commands to the celestial, it defends itself from hostile creatures but otherwise takes no actions.</p>
+                                                <p>The GM has the celestial's statistics.</p>
+                                                <p><dfn>At Higher Levels.</dfn> When you cast this spell using a 9th-level spell slot, you summon a celestial of challenge rating 5 or lower.</p>
+                                             </div>
+                                          </dd>
                                           <dt id="delayed-blast-fireball"><span>Delayed Blast Fireball</span></dt>
                                           <dd>
                                              <div class="wrap">
@@ -12558,6 +12582,30 @@
                                                 <p>If the glowing bead is touched before the interval has expired, the creature touching it must make a Dexterity saving throw. On a failed save, the spell ends immediately, causing the bead to erupt in flame. On a successful save, the creature can throw the bead up to 40 feet. When it strikes a creature or a solid object, the spell ends, and the bead explodes.</p>
                                                 <p>The fire damages objects in the area and ignites flammable objects that aren’t being worn or carried.</p>
                                                 <p><dfn>At Higher Levels.</dfn> When you cast this spell using a spell slot of 8th level or higher, the base damage increases by 1d6 for each slot level above 7th.</p>
+                                             </div>
+                                          </dd>
+                                          <dt id="divine-word"><span>Divine Word</span></dt>
+                                          <dd>
+                                             <div class="wrap">
+                                                <h6>7th-level evocation</h6>
+                                                <dl>
+                                                   <dt>Casting Time:</dt>
+                                                   <dd>1 bonus action</dd>
+                                                   <dt>Range:</dt>
+                                                   <dd>30 feet</dd>
+                                                   <dt>Components:</dt>
+                                                   <dd>V</dd>
+                                                   <dt>Duration:</dt>
+                                                   <dd>Instantaneous</dd>
+                                                </dl>
+                                                <p>You utter a divine word, imbued with the power that shaped the world at the dawn of creation. Choose any number of creatures you can see within range. Each creature that can hear you must make a charisma saving throw. On a failed save, a creature suffers an effect based on its current hit points:</p>
+                                                <ul>
+                                                <li>50 hit points or fewer: deafened for 1 minute</li>
+                                                <li>40 hit points or fewer: deafened and blinded for 10 minutes</li>
+                                                <li>30 hit points or fewer: blinded, deafened, and stunned for 1 hour</li>
+                                                <li>20 hit points or fewer: killed instantly</li>
+                                                </ul>
+                                                <p>Regardless of its current hit points, a celestial, an elemental, a fey, or a fiend that fails its save is forced back to its plane of origin (if it isn't there already) and can't return to your current plane for 24 hours by any means short of a <em>wish</em> spell.</p>
                                              </div>
                                           </dd>
                                           <dt id="etherealness"><span>Etherealness</span></dt>
@@ -12673,6 +12721,35 @@
                                                 <p>This spell closes all mortal wounds and restores any missing body parts.</p>
                                                 <p>Coming back from the dead is an ordeal. The target takes a -4 penalty to all attack rolls, saving throws, and ability checks. Every time the target finishes a long rest, the penalty is reduced by 1 until it disappears.</p>
                                                 <p>Casting this spell to restore life to a creature that has been dead for one year or longer taxes you greatly. Until you finish a long rest, you can’t cast spells again, and you have disadvantage on all attack rolls, ability checks, and saving throws.</p>
+                                             </div>
+                                          </dd>
+                                          <dt id="symbol"><span>Symbol</span></dt>
+                                          <dd>
+                                             <div class="wrap">
+                                                <h6>7th-level abjuration</h6>
+                                                <dl>
+                                                   <dt>Casting Time:</dt>
+                                                   <dd>1 minute</dd>
+                                                   <dt>Range:</dt>
+                                                   <dd>Touch</dd>
+                                                   <dt>Components:</dt>
+                                                   <dd>V, S, M (mercury, phosphorus, and powdered diamond and opal with a total value of at least 1,000 gp, which the spell consumes)</dd>
+                                                   <dt>Duration:</dt>
+                                                   <dd>Until dispelled or triggered</dd>
+                                                </dl>
+                                                <p>When you cast this spell, you inscribe a harmful glyph either on a surface (such as a section of floor, a wall, or a table) or within an object that can be closed to conceal the glyph (such as a book, a scroll, or a treasure chest). If you choose a surface, the glyph can cover an area of the surface no larger than 10 feet in diameter. If you choose an object, that object must remain in its place; if the object is moved more than 10 feet from where you cast this spell, the glyph is broken, and the spell ends without being triggered.</p>
+                                                <p>The glyph is nearly invisible, requiring an intelligence (Investigation) check against your spell save DC to find it.</p>
+                                                <p>You decide what triggers the glyph when you cast the spell. For glyphs inscribed on a surface, the most typical triggers include touching or stepping on the glyph, removing another object covering it, approaching within a certain distance of it, or manipulating the object that holds it. For glyphs inscribed within an object, the most common triggers are opening the object, approaching within a certain distance of it, or seeing or reading the glyph.</p>
+                                                <p>You can further refine the trigger so the spell is activated only under certain circumstances or according to a creature's physical characteristics (such as height or weight), or physical kind (for example, the ward could be set to affect hags or shapechangers). You can also specify creatures that don't trigger the glyph, such as those who say a certain password.</p>
+                                                <p>When you inscribe the glyph, choose one of the options below for its effect. Once triggered, the glyph glows, filling a 60-foot-radius sphere with dim light for 10 minutes, after which time the spell ends. Each creature in the sphere when the glyph activates is targeted by its effect, as is a creature that enters the sphere for the first time on a turn or ends its turn there.</p>
+                                                <p><dfn>Death.</dfn> Each target must make a Constitution saving throw, taking 10d10 necrotic damage on a failed save, or half as much damage on a successful save.</p>
+                                                <p><dfn>Discord.</dfn> Each target must make a Constitution saving throw. On a failed save, a target bickers and argues with other creatures for 1 minute. During this time, it is incapable of meaningful communication and has disadvantage on attack rolls and ability checks.</p>
+                                                <p><dfn>Fear.</dfn> Each target must make a Wisdom saving throw and becomes frightened for 1 minute on a failed save. While frightened, the target drops whatever it is holding and must move at least 30 feet away from the glyph on each of its turns, if able.</p>
+                                                <p><dfn>Hopelessness.</dfn> Each target must make a Charisma saving throw. On a failed save, the target is overwhelmed with despair for 1 minute. During this time, it can't attack or target any creature with harmful abilities, spells, or other magical effects.</p>
+                                                <p><dfn>Insanity.</dfn> Each target must make an Intelligence saving throw. On a failed save, the target is driven insane for 1 minute. An insane creature can't take actions, can't understand what other creatures say, can't read, and speaks only in gibberish. The GM controls its movement, which is erratic.</p>
+                                                <p><dfn>Pain.</dfn> Each target must make a Constitution saving throw and becomes incapacitated with excruciating pain for 1 minute on a failed save.</p>
+                                                <p><dfn>Sleep.</dfn> Each target must make a Wisdom saving throw and falls unconscious for 10 minutes on a failed save. A creature awakens if it takes damage or if someone uses an action to shake or slap it awake.</p>
+                                                <p><dfn>Stunning.</dfn> Each target must make a Wisdom saving throw and becomes stunned for 1 minute on a failed save.</p>
                                              </div>
                                           </dd>
                                           <dt id="teleport"><span>Teleport</span></dt>
