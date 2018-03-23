@@ -138,6 +138,7 @@ a {
 
 /*.main-content .showHideListItems dt*/
 .howtoplayMenuItem {
+    background: #780505;
     height: 30px;
     color: #fff;
     padding: 10px 0 10px 10px;
