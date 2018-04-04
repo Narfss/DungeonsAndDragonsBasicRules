@@ -301,8 +301,8 @@ table { font-size:1.6rem; /*line-height:1.6rem;*/ margin:40px 0; border-collapse
 table tr { border-bottom:1px solid #fff; }
 table th { background-color: #333; color:#fff; font-style:italic; font-weight:600; padding:8px 20px; }
 table td { color:#333; padding:8px 20px; border: 0 none; }
-table tr:nth-child(even) { background-color: #fcfbf6; }
-table tr:nth-child(odd) { background-color: #ebebeb; }
+oldtable tr:nth-child(even) { background-color: #fcfbf6; }
+oldtable tr:nth-child(odd) { background-color: #ebebeb; }
 table tr:hover { background-color: #fff; }
 
 
@@ -391,4 +391,9 @@ ul, ol {
 .banner_image {
     width: 35%;
     float: right;
+}
+
+td.separator {
+    background-color: transparent;
+    border-bottom: none;
 }
