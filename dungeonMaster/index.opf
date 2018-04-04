@@ -2,23 +2,23 @@
 <package version="2.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
  
   <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
-    <dc:title>Player's Basic Rules</dc:title>
+    <dc:title>Dungeon Master's Basic Rules</dc:title>
     <dc:language>en</dc:language>
     <dc:identifier id="BookId" opf:scheme="ISBN">123456789X</dc:identifier>
     <dc:creator opf:file-as="Wizards of the Coast" opf:role="aut">Dungeons &amp; Dragons</dc:creator>
     <dc:publisher>Wizards of the Coast</dc:publisher>
     <dc:subject>Reference</dc:subject>
     <dc:date>2018-1-01</dc:date>
-    <dc:description>Player's Basic Rules for Dungeons &amp; Dragons</dc:description>
+    <dc:description>Dungeon Master's Basic Rules for Dungeons &amp; Dragons</dc:description>
     <meta name="cover" content="my-cover-image" />
   </metadata>
  
   <manifest>
     <item id="tc" href="toc.html" media-type="application/xhtml+xml"/>
-    <item id="book" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="book" href="master.html" media-type="application/xhtml+xml"/>
     <item id="stylesheet" href="style.css" media-type="text/css"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>  
-    <item id="my-cover-image" href="cover.jpg" media-type="image/jpeg" />
+    <item id="my-cover-image" href="master-cover.jpg" media-type="image/jpeg" />
   </manifest>
  
   <!-- Each itemref references the id of a document designated in the manifest. The order of the itemref elements organizes the associated content files into the linear reading order of the publication.  -->
