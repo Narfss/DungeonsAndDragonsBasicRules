@@ -12,15 +12,15 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
 [Download Dungeon & Dragons - Player's Basic Rules v0.3 Mobi](https://narfss.github.io/DungeonsAndDragonsBasicRules/DungeonsAndDragonsBasicRules.mobi)
 
 ### What tasks are in progress
-  - Bring all the SRD content. From: [amazingrando/fifth-edition-srd](https://github.com/amazingrando/fifth-edition-srd)Source
-  	- Cleric Spells
-  	- Wizard Spells
-  	- Magic Schools
 
 ## What as been done
   - Extracted the html and css basic for style from the original source.
   - Formating the html as ebook
   - Added links for chapters navigation
+  - Bring all the SRD content relevant like:
+  	- Cleric Spells
+  	- Wizard Spells
+  	- Magic Schools
 
 ### How to help
 Any help is welcome, this project is in a early stage.
