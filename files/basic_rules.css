@@ -284,8 +284,8 @@ aside {
 
 .product_tabletop-games_basic-rules table caption { font-size: 2rem; margin: 0.5rem; font-weight: 700; font-style: italic; }
 table tr:nth-child(odd), table tr:nth-child(even) { background: none; border-bottom: none; }
-table tr:nth-child(odd) td { background-color: #ebebeb; border-bottom: 1px solid #fff; }
-table tr:nth-child(even) td { background-color: #fcfbf6; border-bottom: 1px solid #fff; }
+table tr:nth-child(odd) td { background-color: #ebebeb; border-top: 1px solid #fff; }
+table tr:nth-child(even) td { background-color: #fcfbf6; border-top: 1px solid #fff; }
 html body table tbody { border-top: none; }
 html body table th.separator,
 html body table td.separator { background-color: transparent; border-bottom: none; }
@@ -301,8 +301,8 @@ table { font-size:1.6rem; /*line-height:1.6rem;*/ margin:40px 0; border-collapse
 table tr { border-bottom:1px solid #fff; }
 table th { background-color: #333; color:#fff; font-style:italic; font-weight:600; padding:8px 20px; }
 table td { color:#333; padding:8px 20px; border: 0 none; }
-table tr:nth-child(even) { background-color: #fcfbf6; }
-table tr:nth-child(odd) { background-color: #ebebeb; }
+oldtable tr:nth-child(even) { background-color: #fcfbf6; }
+oldtable tr:nth-child(odd) { background-color: #ebebeb; }
 table tr:hover { background-color: #fff; }
 
 
@@ -391,4 +391,17 @@ ul, ol {
 .banner_image {
     width: 35%;
     float: right;
+}
+
+td.separator {
+    background-color: transparent;
+    border-bottom: none;
+}
+
+.monster-list dt span {
+    color: black;
+}
+
+.magic-item-list dt span {
+    color: black;
 }
