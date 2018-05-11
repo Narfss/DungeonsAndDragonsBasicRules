@@ -1,6 +1,6 @@
 mkdir ebook
 cp cover.jpg ebook
-cp index.html ebook
+cp player.html ebook
 cp index.opf ebook
 cp toc.html ebook
 cp toc.ncx ebook

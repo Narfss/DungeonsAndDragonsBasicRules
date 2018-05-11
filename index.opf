@@ -15,7 +15,7 @@
  
   <manifest>
     <item id="tc" href="toc.html" media-type="application/xhtml+xml"/>
-    <item id="book" href="index.html" media-type="application/xhtml+xml"/>
+    <item id="book" href="player.html" media-type="application/xhtml+xml"/>
     <item id="stylesheet" href="style.css" media-type="text/css"/>
     <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>  
     <item id="my-cover-image" href="cover.jpg" media-type="image/jpeg" />
