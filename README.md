@@ -20,14 +20,7 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
 [Download Dungeon & Dragons - Dungeon Master Basic Rules v0.5 Mobi](https://narfss.github.io/DungeonsAndDragonsBasicRules/DungeonsAndDragonsDungeonMasterBasicRules.mobi)
 
 ### What tasks are in progress
- - Bring all the SRD content relevant like:
- - Multiclass info and tables
- - Class Features: 
-  - Channel Divinity
-  - Extra Attack
-  - Unarmored Defense
-  - Spellcasting
-- Remove the links like "chapter X of the Player’s Handbook"
+ - Bring all the SRD content relevant.
 
 ## What as been done
   - Extracted the html and css basic for style from the original source.
@@ -39,6 +32,12 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
   	- Wizard Spells
     - Feat: 
       - Grappler
+    -Multiclassing
+     - Class Features: 
+      - Channel Divinity
+      - Extra Attack
+      - Unarmored Defense
+      - Spellcasting
 
 ### How to help
 Any help is welcome, this project is in a early stage.
