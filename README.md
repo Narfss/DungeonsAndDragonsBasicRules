@@ -41,12 +41,12 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
   	- Wizard Spells
     - Feat: 
       - Grappler
-    -Multiclassing
-     - Class Features: 
-      - Channel Divinity
-      - Extra Attack
-      - Unarmored Defense
-      - Spellcasting
+    - Multiclassing
+      - Class Features: 
+        - Channel Divinity
+        - Extra Attack
+        - Unarmored Defense
+        - Spellcasting
 
 ### How to help
 Any help is welcome, this project is in a early stage.
