@@ -20,7 +20,16 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
 [Download Dungeon & Dragons - Dungeon Master Basic Rules v0.5 Mobi](https://narfss.github.io/DungeonsAndDragonsBasicRules/DungeonsAndDragonsDungeonMasterBasicRules.mobi)
 
 ### What tasks are in progress
- - Bring all the SRD content relevant.
+ - Bring all the SRD content relevant to Players basic rules
+  - Diseases
+  - Madness
+  - Poisons
+  - Artifacts 
+  	- Orb of Dragonkind
+  - Items
+ - Bring all the SRD content relevant to Dungeons Master basic rules
+  - Sample Traps
+  - Magic Items
 
 ## What as been done
   - Extracted the html and css basic for style from the original source.
