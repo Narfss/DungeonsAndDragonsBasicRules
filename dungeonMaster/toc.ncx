@@ -27,12 +27,13 @@ including those conforming to the relaxed constraints of OPS 2.0 -->
 		<navLabel><text>Table of Contents</text></navLabel>
 		<content src="toc.html" /> 
 	</navPoint>
-	<navPoint class="titlepage" id="level1-book2" playOrder="2"><navLabel><text>Monsters</text></navLabel><content src="master.html#howtoplayparent_2056" /></navPoint>
-	<navPoint class="book" id="level1-book3" playOrder="3"><navLabel><text>Nonplayers Characters</text></navLabel><content src="master.html#howtoplayparent_2076" /></navPoint>
-	<navPoint class="book" id="level1-book4" playOrder="4"><navLabel><text>Building Combat Encounters</text></navLabel><content src="master.html#howtoplayparent_2091" /></navPoint>
-	<navPoint class="book" id="level1-book5" playOrder="5"><navLabel><text>Magic Items</text></navLabel><content src="master.html#howtoplayparent_2111" /></navPoint>
-	<navPoint class="book" id="level1-book6" playOrder="6"><navLabel><text>Monsters by Challenge Ratin</text></navLabel><content src="master.html#howtoplayparent_2126" /></navPoint>
-	<navPoint class="book" id="level1-book7" playOrder="7"><navLabel><text>What Comes Next?</text></navLabel><content src="master.html#howtoplayparent_2206" /></navPoint>
+	<navPoint class="titlepage" id="level1-book2" playOrder="2"><navLabel><text>Adventure</text></navLabel><content src="master.html#howtoplayparent_2001" /></navPoint>
+  <navPoint class="book" id="level1-book3" playOrder="3"><navLabel><text>Monsters</text></navLabel><content src="master.html#howtoplayparent_2056" /></navPoint>
+	<navPoint class="book" id="level1-book4" playOrder="4"><navLabel><text>Nonplayers Characters</text></navLabel><content src="master.html#howtoplayparent_2076" /></navPoint>
+	<navPoint class="book" id="level1-book5" playOrder="5"><navLabel><text>Building Combat Encounters</text></navLabel><content src="master.html#howtoplayparent_2091" /></navPoint>
+	<navPoint class="book" id="level1-book6" playOrder="6"><navLabel><text>Magic Items</text></navLabel><content src="master.html#howtoplayparent_2111" /></navPoint>
+	<navPoint class="book" id="level1-book7" playOrder="7"><navLabel><text>Monsters by Challenge Ratin</text></navLabel><content src="master.html#howtoplayparent_2126" /></navPoint>
+	<navPoint class="book" id="level1-book8" playOrder="8"><navLabel><text>What Comes Next?</text></navLabel><content src="master.html#howtoplayparent_2206" /></navPoint>
 
 </navMap>
 
