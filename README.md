@@ -5,7 +5,7 @@
 ## About this project ##
 This document is a minimal, clean and improved version of the [Dungeons & Dragons basic rules v0.3 website](http://dnd.wizards.com/products/tabletop/players-basic-rules) and [Dungeons & Dragons- Dungeon Master basic rules v0.5 website](http://dnd.wizards.com/products/tabletop/dm-basic-rules)  with the remaining information from [SYSTEMS REFERENCE DOCUMENT (SRD) v5.1](http://dnd.wizards.com/articles/features/systems-reference-document-srd) to fill the gaps. The main idea of this project is to make a better source for tablets, ebooks or printing version. Additonally we will be able to improve the document's references, contents or examples.
 
-[Go to Dungeon & Dragons - Basic Rules landing](https://narfss.github.io/DungeonsAndDragonsBasicRules/
+[Go to Dungeon & Dragons - Basic Rules landing](https://narfss.github.io/DungeonsAndDragonsBasicRules/)
 
 [Go to Dungeon & Dragons - Player's Basic Rules v0.3 Basic html](https://narfss.github.io/DungeonsAndDragonsBasicRules/player.html)
 
