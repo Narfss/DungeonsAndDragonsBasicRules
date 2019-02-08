@@ -21,13 +21,42 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
 
 ### What tasks are in progress
  - Simplify html
- - Differences with the new Basic Rules 1.0 November 2018 (Completed page 25 of 180)
+ - Differences with the new Basic Rules 1.0 November 2018 (Completed page 76 of 180)
   - Part 1: page 0 to 58
     - The new manual as a lot of images
     - "Using These Rules" mentions a part 4, the appendix reference and character sheets (page 4)
-    - Different sort of, Variant: Customizing Ability Scores, Ability Score Point Cost, Ability Score Summary and Ability Scores and Modifiers
     - New content: Tiers of Play
+    - Action Surge: was different, follow the in DnDBeyond description.
+    - Oreoaring and casting spells: spells to cast are wizard spells.
+    - Learning Spells of 1st Level and Higher: chosen spells are for free
+    - Copying a Spell into the Book: was different, follow the in DnDBeyond description.
+    - Sex: hermaphroditic reference was removed
+    - Height and Weight: minor change (12 . 3) instead (12 x 3)
+    - Errata: quasi-divine
+    - Coinage: With one gold piece, a character can buy a bedroll, not a quiver
+    - Coinage: A silver piece buys a laborer’s work for half a day not a ser of dice
+    - Variant: equipament sizes: minor change 1d4 × 10 instead 1d4 . 10
+    - Getting Into and Out of Armor, includes shields too
+    - Multiclassing, has the incomplete content. So SRD content is used here.
+    - Feats, has the incomplete content. So SRD content is used here.
   - Part 2: page 56 to 80
+    - Ability Scores and Modifiers: errata .5 is -5
+    - Advantage &amp; Disadvantage: you can reroll only one die
+    - Using Each Ability: minor parasites
+    - Hiding: old basic rules, new one and DnDBeyond has a different content. New Basic rules seems more clear.
+    - Climbing, wimming, and crawling: Different content from old version and DnDbeyond, new content is more clear.
+    - High Jump: added minimum
+    - Movement: you can reach plus 1 1/2 times your height not just 1
+    - Suffocating: added choking status
+    - Heavily obscured: minor change
+    - Darkvision: different from old basic rules and new one and DnDBeyond, new basic rules seems more clear.
+    - Interacting with Objects: Minor change
+    - Resting: now include other creatures
+    - Short rest: Added minimum
+    - Long rest: no more thatn 2 hours of light activities in at least 6 hours
+    - Size Categories: include example monsters in the table
+    - Space: example now are with four large creatures
+    - Shoving a Creature: added incapacitated status
   - Part 3: page 81 to 108
   - Part 4: page 109 to 176
 
