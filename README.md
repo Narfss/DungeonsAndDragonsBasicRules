@@ -21,7 +21,7 @@ This document is a minimal, clean and improved version of the [Dungeons & Dragon
 
 ### What tasks are in progress
  - Simplify html
- - Differences with the new Basic Rules 1.0 November 2018 (Completed page 78 of 180)
+ - Differences with the new Basic Rules 1.0 November 2018 (Completed page 80 of 180)
   - Part 1: page 0 to 58
     - The new manual as a lot of images
     - "Using These Rules" mentions a part 4, the appendix reference and character sheets (page 4)
